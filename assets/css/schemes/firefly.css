@@ -1,0 +1,43 @@
+
+:root {
+  --color-neutral: 244, 255, 177; /* Lightest neutral for light-mode compatibility */
+
+  /* Neutral (Transitions from Blue Background to Yellow-Green Text) */
+  --color-neutral-50: 250, 255, 224;
+  --color-neutral-100: 247, 255, 201;
+  --color-neutral-200: 244, 255, 177;   /* Your Text Color: #f4ffb1 */
+  --color-neutral-300: 206, 217, 160;
+  --color-neutral-400: 158, 166, 142;
+  --color-neutral-500: 115, 120, 119;   /* Mid-range slate/grey */
+  --color-neutral-600: 80, 84, 111;
+  --color-neutral-700: 57, 61, 107;
+  --color-neutral-800: 42, 45, 102;     /* Your Background Color: #2a2d66 */
+  --color-neutral-900: 29, 32, 74;
+  --color-neutral-950: 19, 21, 51;
+
+  /* Primary (Indigo - for links and primary actions) */
+  --color-primary-50: 238, 242, 255;
+  --color-primary-100: 224, 231, 255;
+  --color-primary-200: 199, 210, 254;
+  --color-primary-300: 165, 180, 252;
+  --color-primary-400: 129, 140, 248;
+  --color-primary-500: 99, 102, 241;
+  --color-primary-600: 79, 70, 229;
+  --color-primary-700: 67, 56, 202;
+  --color-primary-800: 55, 48, 163;
+  --color-primary-900: 49, 46, 129;
+  --color-primary-950: 30, 27, 75;
+
+  /* Secondary (Pink - for tags and secondary accents) */
+  --color-secondary-50: 253, 242, 248;
+  --color-secondary-100: 252, 231, 243;
+  --color-secondary-200: 251, 207, 232;
+  --color-secondary-300: 249, 168, 212;
+  --color-secondary-400: 244, 114, 182;
+  --color-secondary-500: 236, 72, 153;
+  --color-secondary-600: 219, 39, 119;
+  --color-secondary-700: 190, 24, 93;
+  --color-secondary-800: 157, 23, 77;
+  --color-secondary-900: 131, 24, 67;
+  --color-secondary-950: 80, 7, 36;
+}

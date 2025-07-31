@@ -1,6 +1,6 @@
 {
-  "name": "Congo",
-  "short_name": "Congo",
+  "name": "RyanPMeyer",
+  "short_name": "RPM",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -15,7 +15,7 @@
       "purpose": "any maskable"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#7c3aed",
+  "theme_color": "#f4ffb1",
+  "background_color": "#2a2d66",
   "display": "standalone"
 }
