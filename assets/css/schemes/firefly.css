@@ -5,13 +5,13 @@
   /* Neutral (Transitions from Blue Background to Yellow-Green Text) */
   --color-neutral-50: 250, 255, 224;
   --color-neutral-100: 247, 255, 201;
-  --color-neutral-200: 244, 255, 177;   /* Your Text Color: #f4ffb1 */
+  --color-neutral-200: 244, 255, 177;   /* Based on Color: #f4ffb1 */
   --color-neutral-300: 206, 217, 160;
   --color-neutral-400: 158, 166, 142;
   --color-neutral-500: 115, 120, 119;   /* Mid-range slate/grey */
   --color-neutral-600: 80, 84, 111;
   --color-neutral-700: 57, 61, 107;
-  --color-neutral-800: 42, 45, 102;     /* Your Background Color: #2a2d66 */
+  --color-neutral-800: 42, 45, 102;     /* Background Color base: #2a2d66 */
   --color-neutral-900: 29, 32, 74;
   --color-neutral-950: 19, 21, 51;
 
